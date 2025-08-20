@@ -1,0 +1,7 @@
+{
+  "name": "J.A.R.V.I.S. Chat",
+  "description": "Voice-enabled chat app built with Gemini",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
